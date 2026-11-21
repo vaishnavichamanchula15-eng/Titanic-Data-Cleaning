@@ -1,0 +1,16 @@
+,Missing Values,Data Types
+survived,0,Int64
+pclass,0,Int64
+sex,0,string
+age,0,float64
+sibsp,0,Int64
+parch,0,Int64
+fare,0,float64
+embarked,0,string
+class,0,string
+who,0,string
+adult_male,0,bool
+deck,0,string
+embark_town,0,string
+alive,0,string
+alone,0,bool
