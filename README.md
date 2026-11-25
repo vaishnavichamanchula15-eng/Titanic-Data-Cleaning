@@ -31,3 +31,51 @@ The script downloads the public CSV and creates:
 
 ## Notes
 The cleaned CSV and reports are generated when the script is run, so the repository remains reproducible from the cited public source. Keep the original source data unchanged and submit the generated cleaned CSV along with this README and script.
+
+ 
+
+## Final Data Analytics Project
+
+### 1. Problem Statement
+The objective of this project is to analyze Titanic passenger data and identify the factors that influenced passenger survival.
+
+### 2. Dataset Information
+- Dataset: Titanic Dataset
+- Format: CSV
+- Data includes passenger details, age, gender, ticket class, fare and survival status.
+
+### 3. Data Cleaning Process
+- Checked missing values.
+- Handled duplicate records.
+- Corrected data formats.
+- Prepared clean data for analysis.
+- Exported the cleaned dataset.
+
+### 4. Data Analysis
+Analyzed passenger information to understand survival patterns based on:
+- Gender
+- Age
+- Passenger class
+- Fare
+- Survival status
+
+### 5. Power BI Dashboard
+Created an interactive Power BI dashboard to present Titanic passenger survival analysis using charts, graphs and visualizations.
+
+**Dashboard File:** Titanic_Survival_Analysis.pbix
+
+### 6. Key Business Insights
+- Female passengers had higher survival rates than male passengers.
+- First-class passengers had better survival chances than lower-class passengers.
+- Passenger age and ticket class were important factors in survival patterns.
+
+### 7. Tools and Technologies
+- Python
+- Pandas
+- Power BI
+- GitHub
+
+### 8. Conclusion
+This project helped in understanding the complete data analytics process, including data cleaning, analysis, visualization and extracting meaningful insights from data.
+
+
